@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>blueSquare</groupId>
-	<artifactId>reservation</artifactId>
+	<artifactId>viewpage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>reservation</name>
+	<name>viewpage</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
